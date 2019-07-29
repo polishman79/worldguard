@@ -1,0 +1,562 @@
+[14:55:15] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[14:55:15] [Server thread/INFO]: Loading properties
+[14:55:15] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-595711b-e8b39d4 (MC: 1.14.3) (Implementing API version 1.14.3-R0.1-SNAPSHOT)
+[14:55:15] [Server thread/INFO]: Debug logging is disabled
+[14:55:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:55:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:55:15] [Server thread/INFO]: Default game type: SURVIVAL
+[14:55:15] [Server thread/INFO]: Generating keypair
+[14:55:16] [Server thread/INFO]: Starting Minecraft server on 107.173.53.2:32827
+[14:55:16] [Server thread/INFO]: Using epoll channel type
+[14:55:22] [Server thread/WARN]: Plugin Sleepy v1.3b does not specify an api-version.
+[14:55:22] [Server thread/WARN]: Plugin ModReq v1.2 (for v1.12-1.14) does not specify an api-version.
+[14:55:22] [Server thread/WARN]: Plugin PermissionsEx v1.23.4 does not specify an api-version.
+[14:55:22] [Server thread/WARN]: Plugin AutoAnnouncer v1.7-03.23 does not specify an api-version.
+[14:55:23] [Server thread/INFO]: [Sleepy] Loading Sleepy v1.3b
+[14:55:23] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-SNAPSHOT;4256-56908a7
+[14:55:23] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7df80b03]
+[14:55:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R1 as the Bukkit adapter
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=0]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=1]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=2]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=3]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=4]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=5]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=6]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=7]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=8]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=9]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=10]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=11]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=12]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=13]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=14]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=15]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=north]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=south]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=west]
+[14:55:24] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=east]
+[14:55:24] [Server thread/WARN]: Unknown item: minecraft:sign
+[14:55:24] [Server thread/WARN]: Unknown item: minecraft:rose_red
+[14:55:24] [Server thread/WARN]: Unknown item: minecraft:cactus_green
+[14:55:24] [Server thread/WARN]: Unknown item: minecraft:dandelion_yellow
+[14:55:24] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[14:55:24] [Server thread/INFO]: [SpawnerSilk] Loading SpawnerSilk v2.0
+[14:55:24] [Server thread/INFO]: [ModReq] Loading ModReq v1.2 (for v1.12-1.14)
+[14:55:24] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[14:55:24] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.0.6
+[14:55:24] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[14:55:24] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.1-beta-01;14e7525
+[14:55:24] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.0.0
+[14:55:24] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.0.0
+[14:55:24] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.0.0
+[14:55:24] [Server thread/INFO]: [AutoAnnouncer] Loading AutoAnnouncer v1.7-03.23
+[14:55:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.0.0
+[14:55:24] [Server thread/INFO]: [EnjinMinecraftPlugin] Loading EnjinMinecraftPlugin v3.5.7
+[14:55:24] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.0.0
+[14:55:24] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[14:55:24] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:55:24] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[14:55:24] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:55:24] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[14:55:24] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[14:55:24] [Server thread/INFO]: Preparing level "world"
+[14:55:24] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:55:25] [Server thread/INFO]: Loaded 6 recipes
+[14:55:25] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:55:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:55:25] [Server thread/INFO]: Mob Spawn Range: 6
+[14:55:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:55:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:55:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:55:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:55:25] [Server thread/INFO]: Max TNT Explosions: 100
+[14:55:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:55:25] [Server thread/INFO]: View Distance: 12
+[14:55:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:55:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:55:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:55:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:55:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:55:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:55:25] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:55:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:55:25] [Server thread/INFO]: Mob Spawn Range: 6
+[14:55:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:55:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:55:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:55:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:55:25] [Server thread/INFO]: Max TNT Explosions: 100
+[14:55:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:55:25] [Server thread/INFO]: View Distance: 12
+[14:55:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:55:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:55:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:55:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:55:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:55:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:55:25] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:55:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:55:25] [Server thread/INFO]: Mob Spawn Range: 6
+[14:55:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:55:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:55:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:55:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:55:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:55:25] [Server thread/INFO]: Max TNT Explosions: 100
+[14:55:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:55:25] [Server thread/INFO]: View Distance: 12
+[14:55:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:55:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:55:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:55:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:55:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:55:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:55:25] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[14:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:27] [Server thread/INFO]: Preparing spawn area: 43%
+[14:55:28] [Server thread/INFO]: Time elapsed: 2250 ms
+[14:55:28] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[14:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:29] [Server thread/INFO]: Time elapsed: 1396 ms
+[14:55:29] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[14:55:30] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:30] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:30] [Server thread/INFO]: Time elapsed: 946 ms
+[14:55:30] [Server thread/INFO]: [Sleepy] Enabling Sleepy v1.3b
+[14:55:30] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-SNAPSHOT;4256-56908a7
+[14:55:30] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:55:30] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:55:30] [Server thread/INFO]: [SpawnerSilk] Enabling SpawnerSilk v2.0
+[14:55:30] [Server thread/INFO]: [SpawnerSilk] is enabled !
+[14:55:30] [Server thread/INFO]: [ModReq] Enabling ModReq v1.2 (for v1.12-1.14)
+[14:55:30] [Server thread/INFO]: [ModReq] Plugin enabled (database: SQLite).
+[14:55:30] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[14:55:30] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[14:55:30] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[14:55:30] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[14:55:30] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[14:55:30] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[14:55:30] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.0.6
+[14:55:30] [Server thread/INFO]: [ClearLag] Loading modules...
+[14:55:30] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[14:55:30] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[14:55:30] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[14:55:30] [Thread-9/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.14]...
+[14:55:30] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.1-beta-01;14e7525
+[14:55:31] [Thread-9/INFO]: [ClearLag] No updates found!
+[14:55:31] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/config.yml
+[14:55:31] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world/config.yml
+[14:55:31] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world/blacklist.txt
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[14:55:31] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world_nether/config.yml
+[14:55:31] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world_nether/blacklist.txt
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[14:55:31] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world_the_end/config.yml
+[14:55:31] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world_the_end/blacklist.txt
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[14:55:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[14:55:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[14:55:31] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:55:31] [Server thread/INFO]: [WorldGuard] Unloading and saving region data that is currently loaded...
+[14:55:31] [Server thread/INFO]: [WorldGuard] Loading region data for loaded worlds...
+[14:55:31] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:55:31] [Server thread/INFO]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+[14:55:31] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.0.0
+[14:55:31] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[14:55:31] [Server thread/INFO]: No kits found to migrate.
+[14:55:31] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[14:55:31] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[14:55:32] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[14:55:32] [Server thread/INFO]: Loaded 20977 items from items.json.
+[14:55:32] [Server thread/INFO]: Using locale en_US
+[14:55:32] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:55:32] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:55:32] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[14:55:32] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[14:55:32] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.0.0
+[14:55:32] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.0.0
+[14:55:32] [Server thread/WARN]: Unable to load JDK7 types (annotations, java.nio.file.Path): no Java7 support added
+[14:55:32] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[14:55:32] [Server thread/INFO]: [AutoAnnouncer] Enabling AutoAnnouncer v1.7-03.23
+[14:55:32] [Server thread/INFO]: [AutoAnnouncer] Permission support enabled!
+[14:55:32] [Server thread/INFO]: [AutoAnnouncer] Settings Loaded (3 announces).
+[14:55:32] [Server thread/INFO]: [AutoAnnouncer] Scheduled every 5 minutes!
+[14:55:32] [Server thread/INFO]: [AutoAnnouncer] v1.7-03.23 is enabled!
+[14:55:32] [Server thread/INFO]: [AutoAnnouncer] Developed by: [Sharkiller]
+[14:55:32] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.0.0
+[14:55:32] [Server thread/INFO]: [EnjinMinecraftPlugin] Enabling EnjinMinecraftPlugin v3.5.7
+[14:55:32] [Server thread/INFO]: ?5   ___    _  _        _    ___    _  _ 
+[14:55:32] [Server thread/INFO]: ?5  | __|  | \| |    _ | |  |_ _|  | \| |
+[14:55:32] [Server thread/INFO]: ?5  | _|   | .` |   | || |   | |   | .` |
+[14:55:32] [Server thread/INFO]: ?5  |___|  |_|\_|    \__/   |___|  |_|\_|
+[14:55:32] [Server thread/INFO]: ?2  Enjin Minecraft Plugin ?63.5.7
+[14:55:32] [Server thread/INFO]: Initializing for the first time.
+[14:55:33] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.0.0
+[14:55:33] [Server thread/WARN]: config broken for xmpp
+[14:55:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:55:33] [Server thread/INFO]: Done (8.711s)! For help, type "help"
+[14:55:33] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[14:55:33] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[14:55:54] [User Authenticator #1/INFO]: UUID of player chaser79 is cfb6322f-323e-4fed-86c2-e9888515fea6
+[14:55:55] [Server thread/INFO]: chaser79[/73.74.113.116:51464] logged in with entity id 260 at ([world]-248.28887074404642, 69.24313996495438, -197.66948580550337)
+[14:55:56] [Server thread/WARN]: [Essentials] Task #29 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot.jar:git-Spigot-595711b-e8b39d4]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot.jar:git-Spigot-595711b-e8b39d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot.jar:git-Spigot-595711b-e8b39d4]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot.jar:git-Spigot-595711b-e8b39d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot.jar:git-Spigot-595711b-e8b39d4]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot.jar:git-Spigot-595711b-e8b39d4]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_202]
+[14:56:06] [Server thread/INFO]: chaser79 issued server command: //wand
+[14:56:14] [Server thread/INFO]: chaser79 issued server command: //expand vert
+[14:56:19] [Server thread/INFO]: chaser79 issued server command: /region define 1
+[14:56:27] [Server thread/INFO]: chaser79 issued server command: /rg flag 1 passthroughallow
+[14:56:48] [Server thread/INFO]: chaser79 issued server command: /region claim chaser79
+[14:56:57] [Server thread/INFO]: chaser79 issued server command: /region create 1
+[14:57:52] [Server thread/INFO]: chaser79 issued server command: /reload
+[14:57:52] [Server thread/INFO]: chaser79: Please note that this command is not supported and may cause issues when using some plugins.
+[14:57:52] [Server thread/INFO]: chaser79: If you encounter any issues please use the /stop command to restart your server.
+[14:57:52] [Server thread/INFO]: Debug logging is disabled
+[14:57:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:57:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:57:52] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:57:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:57:52] [Server thread/INFO]: Mob Spawn Range: 6
+[14:57:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:57:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:57:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:57:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:57:52] [Server thread/INFO]: Max TNT Explosions: 100
+[14:57:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:57:52] [Server thread/INFO]: View Distance: 12
+[14:57:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:57:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:57:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:57:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:57:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:57:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:57:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:57:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:57:52] [Server thread/INFO]: Mob Spawn Range: 6
+[14:57:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:57:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:57:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:57:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:57:52] [Server thread/INFO]: Max TNT Explosions: 100
+[14:57:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:57:52] [Server thread/INFO]: View Distance: 12
+[14:57:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:57:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:57:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:57:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:57:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:57:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:57:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:57:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:57:52] [Server thread/INFO]: Mob Spawn Range: 6
+[14:57:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:57:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:57:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:57:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:57:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:57:52] [Server thread/INFO]: Max TNT Explosions: 100
+[14:57:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:57:52] [Server thread/INFO]: View Distance: 12
+[14:57:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:57:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:57:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:57:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:57:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:57:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:57:52] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.17.0.0
+[14:57:52] [Server thread/INFO]: [EnjinMinecraftPlugin] Disabling EnjinMinecraftPlugin v3.5.7
+[14:57:52] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.0.0
+[14:57:52] [Server thread/INFO]: [AutoAnnouncer] Disabling AutoAnnouncer v1.7-03.23
+[14:57:52] [Server thread/INFO]: [AutoAnnouncer] Scheduling finished!
+[14:57:52] [Server thread/INFO]: [AutoAnnouncer] v1.7-03.23 is disabled!.
+[14:57:52] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.0.0
+[14:57:52] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.0.0
+[14:57:52] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.0.0
+[14:57:52] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[14:57:52] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.1-beta-01;14e7525
+[14:57:52] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[14:57:52] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[14:57:52] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[14:57:52] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.0.6
+[14:57:52] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[14:57:52] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[14:57:52] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[14:57:52] [Server thread/INFO]: [ModReq] Disabling ModReq v1.2 (for v1.12-1.14)
+[14:57:52] [Server thread/INFO]: [ModReq] Plugin disabled.
+[14:57:52] [Server thread/INFO]: [SpawnerSilk] Disabling SpawnerSilk v2.0
+[14:57:52] [Server thread/INFO]: [SpawnerSilk] is disabled !
+[14:57:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-SNAPSHOT;4256-56908a7
+[14:57:52] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:57:52] [Server thread/INFO]: [Sleepy] Disabling Sleepy v1.3b
+[14:57:52] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:57:52] [Server thread/INFO]: Loaded 6 recipes
+[14:57:53] [Server thread/WARN]: Plugin Sleepy v1.3b does not specify an api-version.
+[14:57:53] [Server thread/WARN]: Plugin ModReq v1.2 (for v1.12-1.14) does not specify an api-version.
+[14:57:53] [Server thread/WARN]: Plugin PermissionsEx v1.23.4 does not specify an api-version.
+[14:57:53] [Server thread/WARN]: Plugin AutoAnnouncer v1.7-03.23 does not specify an api-version.
+[14:57:53] [Server thread/INFO]: [Sleepy] Loading Sleepy v1.3b
+[14:57:53] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-SNAPSHOT;4256-56908a7
+[14:57:53] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3dc39e5]
+[14:57:53] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R1 as the Bukkit adapter
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=0]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=1]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=2]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=3]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=4]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=5]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=6]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=7]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=8]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=9]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=10]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=11]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=12]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=13]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=14]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:sign[rotation=15]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=north]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=south]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=west]
+[14:57:54] [Server thread/WARN]: Unknown block: minecraft:wall_sign[facing=east]
+[14:57:54] [Server thread/WARN]: Unknown item: minecraft:sign
+[14:57:54] [Server thread/WARN]: Unknown item: minecraft:rose_red
+[14:57:54] [Server thread/WARN]: Unknown item: minecraft:cactus_green
+[14:57:54] [Server thread/WARN]: Unknown item: minecraft:dandelion_yellow
+[14:57:54] [Server thread/INFO]: [SpawnerSilk] Loading SpawnerSilk v2.0
+[14:57:54] [Server thread/INFO]: [ModReq] Loading ModReq v1.2 (for v1.12-1.14)
+[14:57:54] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[14:57:54] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.0.6
+[14:57:54] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[14:57:54] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.1-SNAPSHOT;1952-556b638
+[14:57:54] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.0.0
+[14:57:54] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.0.0
+[14:57:54] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.0.0
+[14:57:54] [Server thread/INFO]: [AutoAnnouncer] Loading AutoAnnouncer v1.7-03.23
+[14:57:54] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.0.0
+[14:57:54] [Server thread/INFO]: [EnjinMinecraftPlugin] Loading EnjinMinecraftPlugin v3.5.7
+[14:57:54] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.0.0
+[14:57:54] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[14:57:54] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:57:54] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[14:57:54] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:57:54] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[14:57:54] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[14:57:54] [Server thread/INFO]: [Sleepy] Enabling Sleepy v1.3b
+[14:57:54] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-SNAPSHOT;4256-56908a7
+[14:57:54] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:57:54] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:57:54] [Server thread/INFO]: [SpawnerSilk] Enabling SpawnerSilk v2.0
+[14:57:54] [Server thread/INFO]: [SpawnerSilk] is enabled !
+[14:57:54] [Server thread/INFO]: [ModReq] Enabling ModReq v1.2 (for v1.12-1.14)
+[14:57:54] [Server thread/INFO]: [ModReq] Plugin enabled (database: SQLite).
+[14:57:54] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[14:57:54] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[14:57:54] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[14:57:54] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[14:57:54] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[14:57:54] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[14:57:54] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.0.6
+[14:57:54] [Server thread/INFO]: [ClearLag] Loading modules...
+[14:57:54] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[14:57:54] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[14:57:54] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[14:57:54] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.1-SNAPSHOT;1952-556b638
+[14:57:54] [Thread-15/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.14]...
+[14:57:54] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/config.yml
+[14:57:54] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world/config.yml
+[14:57:54] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world/blacklist.txt
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[14:57:54] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world_nether/config.yml
+[14:57:54] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world_nether/blacklist.txt
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[14:57:54] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world_the_end/config.yml
+[14:57:54] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/root/multicraft/servers/server787775/plugins/WorldGuard/worlds/world_the_end/blacklist.txt
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[14:57:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[14:57:54] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:57:54] [Thread-15/INFO]: [ClearLag] No updates found!
+[14:57:54] [Server thread/INFO]: [WorldGuard] Unloading and saving region data that is currently loaded...
+[14:57:54] [Server thread/INFO]: [WorldGuard] Loading region data for loaded worlds...
+[14:57:54] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:57:54] [Server thread/INFO]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+[14:57:54] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.0.0
+[14:57:54] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[14:57:54] [Server thread/INFO]: No kits found to migrate.
+[14:57:54] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[14:57:54] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[14:57:54] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[14:57:55] [Server thread/INFO]: Loaded 20977 items from items.json.
+[14:57:55] [Server thread/INFO]: Using locale en_US
+[14:57:55] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:57:55] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:57:55] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[14:57:55] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[14:57:55] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.0.0
+[14:57:55] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.0.0
+[14:57:55] [Server thread/WARN]: Unable to load JDK7 types (annotations, java.nio.file.Path): no Java7 support added
+[14:57:55] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[14:57:55] [Server thread/INFO]: [AutoAnnouncer] Enabling AutoAnnouncer v1.7-03.23
+[14:57:55] [Server thread/INFO]: [AutoAnnouncer] Permission support enabled!
+[14:57:55] [Server thread/INFO]: [AutoAnnouncer] Settings Loaded (3 announces).
+[14:57:55] [Server thread/INFO]: [AutoAnnouncer] Scheduled every 5 minutes!
+[14:57:55] [Server thread/INFO]: [AutoAnnouncer] v1.7-03.23 is enabled!
+[14:57:55] [Server thread/INFO]: [AutoAnnouncer] Developed by: [Sharkiller]
+[14:57:55] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.0.0
+[14:57:55] [Server thread/INFO]: [EnjinMinecraftPlugin] Enabling EnjinMinecraftPlugin v3.5.7
+[14:57:55] [Server thread/INFO]: ?5   ___    _  _        _    ___    _  _ 
+[14:57:55] [Server thread/INFO]: ?5  | __|  | \| |    _ | |  |_ _|  | \| |
+[14:57:55] [Server thread/INFO]: ?5  | _|   | .` |   | || |   | |   | .` |
+[14:57:55] [Server thread/INFO]: ?5  |___|  |_|\_|    \__/   |___|  |_|\_|
+[14:57:55] [Server thread/INFO]: ?2  Enjin Minecraft Plugin ?63.5.7
+[14:57:55] [Server thread/INFO]: Initializing for the first time.
+[14:57:55] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.0.0
+[14:57:56] [Server thread/WARN]: config broken for xmpp
+[14:57:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:57:56] [Server thread/INFO]: chaser79: Reload complete.
+[14:57:56] [Craft Scheduler Thread - 9/INFO]: [Vault] Checking for Updates ... 
+[14:57:56] [Craft Scheduler Thread - 9/INFO]: [Vault] No new version available
+[14:58:03] [Server thread/INFO]: chaser79 issued server command: /region create 1
+[14:58:06] [Server thread/INFO]: chaser79 issued server command: /rg flag 1 passthroughallow
+[15:02:15] [Server thread/INFO]: chaser79 issued server command: /pl
+[15:02:52] [Craft Scheduler Thread - 6/INFO]: [Announcment] To become a [Member] make sure to register on the website: https://thraliacraft.enjin.com/
+[15:04:32] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[15:05:12] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[15:05:32] [Server thread/INFO]: [ClearLag] Removed 2 Entities!
+[15:07:52] [Craft Scheduler Thread - 11/INFO]: [Announcment] Make sure to join the discord if you haven't already -  https://discord.gg/pRkZ2sx 
+[15:12:12] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[15:12:52] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[15:12:52] [Craft Scheduler Thread - 11/INFO]: [Announcment] If you need help from any staff memeber use the command /modreq (message) and a staff memeber will help you out when available.
+[15:13:12] [Server thread/INFO]: [ClearLag] Removed 2 Entities!
+[15:13:20] [Server thread/INFO]: chaser79 issued server command: /rg define test_1
+[15:13:31] [Server thread/INFO]: chaser79 issued server command: /rg flag test_1 passthrough allow
+[15:17:52] [Craft Scheduler Thread - 13/INFO]: [Announcment] To become a [Member] make sure to register on the website: https://thraliacraft.enjin.com/
+[15:19:52] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[15:20:32] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[15:20:52] [Server thread/INFO]: [ClearLag] Removed 2 Entities!
+[15:22:52] [Craft Scheduler Thread - 13/INFO]: [Announcment] Make sure to join the discord if you haven't already -  https://discord.gg/pRkZ2sx 
+[15:23:40] [Server thread/INFO]: chaser79 issued server command: //expand vert
+[15:27:26] [Server thread/INFO]: chaser79 issued server command: //wand
+[15:27:30] [Server thread/INFO]: chaser79 issued server command: //expand vert
+[15:27:32] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[15:27:41] [Server thread/INFO]: chaser79 issued server command: /rg define 1
+[15:27:52] [Craft Scheduler Thread - 13/INFO]: [Announcment] If you need help from any staff memeber use the command /modreq (message) and a staff memeber will help you out when available.
+[15:28:12] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[15:28:32] [Server thread/INFO]: [ClearLag] Removed 6 Entities!
+[15:32:52] [Craft Scheduler Thread - 15/INFO]: [Announcment] To become a [Member] make sure to register on the website: https://thraliacraft.enjin.com/
+[15:35:08] [Server thread/INFO]: chaser79 issued server command: //expand vert
+[15:35:12] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 60 seconds!
+[15:35:14] [Server thread/INFO]: chaser79 issued server command: /rg define 1
+[15:35:21] [Server thread/INFO]: chaser79 issued server command: /rg flag 1 passthroughallow
+[15:35:52] [Server thread/INFO]: [ClearLag] Warning Ground items will be removed in 20 seconds!
+[15:36:12] [Server thread/INFO]: [ClearLag] Removed 1 Entities!
